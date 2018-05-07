@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidDataStorage</string>
+    <string name="proddb">New Products Database</string>
+    <string name="insertitem">Insert New Item</string>
+    <string name="searchitem">Search Item </string>
+    <string name="addnewitem">Add New Product Item</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_desc">Item Description</string>
+    <string name="item_price">Item Price</string>
+    <string name="item_rev">Item Review</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+    <string name="enter_name">Enter Item Name</string>
+</resources>
