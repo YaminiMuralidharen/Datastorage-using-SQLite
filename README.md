@@ -3,7 +3,7 @@ Store data on the phone through SQLite
 
 1.Home screen of the application list 2 options -Insert New item and Search item
 
-
+![image](https://github.com/YaminiMuralidharen/Datastorage-using-SQLite/blob/master/screenshots/Picture1.png)
 
 
  
@@ -19,6 +19,7 @@ Store data on the phone through SQLite
 
 
 
+![image](https://github.com/YaminiMuralidharen/Datastorage-using-SQLite/blob/master/screenshots/Picture2.png)
  
 
 
@@ -38,6 +39,7 @@ Store data on the phone through SQLite
 
 
  
+![image](https://github.com/YaminiMuralidharen/Datastorage-using-SQLite/blob/master/screenshots/Picture3.png)
 
 
 
@@ -54,5 +56,6 @@ Store data on the phone through SQLite
 
 
 
+![image](https://github.com/YaminiMuralidharen/Datastorage-using-SQLite/blob/master/screenshots/Picture4.png)
 
 
